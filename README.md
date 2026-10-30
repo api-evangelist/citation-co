@@ -64,5 +64,160 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Citation is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://citation.co/
+Citation provides a web-based citation generator and writing workspace that supports APA, MLA, Chicago and other citation styles. Users can create citations by entering URLs, DOIs, ISBNs or titles, manage sources, organize research files, and export bibliographies. The platform offers a free tier with usage limits and paid plans for higher allowances, and includes AI‑assisted suggestions and source verification.
+
+**Areas:** Citation · Bibliography · WritingTool · Academic · Productivity
+
+## Citation on APIs.io
+
+Everything profiled for Citation is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/citation-co/](https://apis.io/providers/citation-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [Citation Balance API](https://apis.io/apis/citation-co/citation-co-balance-api/) — The Balance API from Citation — 1 operation(s) for balance.
+- [Citation Checks API](https://apis.io/apis/citation-co/citation-co-checks-api/) — The Checks API from Citation — 1 operation(s) for checks.
+- [Citation Documents API](https://apis.io/apis/citation-co/citation-co-documents-api/) — The Documents API from Citation — 17 operation(s) for documents.
+- [Citation Events API](https://apis.io/apis/citation-co/citation-co-events-api/) — The Events API from Citation — 1 operation(s) for events.
+- [Citation Exports API](https://apis.io/apis/citation-co/citation-co-exports-api/) — The Exports API from Citation — 1 operation(s) for exports.
+- [Citation Files API](https://apis.io/apis/citation-co/citation-co-files-api/) — The Files API from Citation — 3 operation(s) for files.
+- [Citation Imports API](https://apis.io/apis/citation-co/citation-co-imports-api/) — The Imports API from Citation — 1 operation(s) for imports.
+- [Citation Jobs API](https://apis.io/apis/citation-co/citation-co-jobs-api/) — The Jobs API from Citation — 5 operation(s) for jobs.
+- [Citation Ledger API](https://apis.io/apis/citation-co/citation-co-ledger-api/) — The Ledger API from Citation — 1 operation(s) for ledger.
+- [Citation Me API](https://apis.io/apis/citation-co/citation-co-me-api/) — The Me API from Citation — 1 operation(s) for me.
+- [Citation Pricing API](https://apis.io/apis/citation-co/citation-co-pricing-api/) — The Pricing API from Citation — 1 operation(s) for pricing.
+- [Citation Sources API](https://apis.io/apis/citation-co/citation-co-sources-api/) — The Sources API from Citation — 1 operation(s) for sources.
+- [Citation Webhooks API](https://apis.io/apis/citation-co/citation-co-webhooks-api/) — The Webhooks API from Citation — 3 operation(s) for webhooks.
+- [Citation Write API](https://apis.io/apis/citation-co/citation-co-write-api/) — The Write API from Citation — 1 operation(s) for write.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Citation Co Agentic Access](https://apis.io/agentic-access/citation-co/citation-co-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CheckReview](https://apis.io/schemas/citation-co/citation-co-check-review/)
+- [Connection](https://apis.io/schemas/citation-co/citation-co-connection/)
+- [context](https://apis.io/schemas/citation-co/citation-co-context/)
+- [Job](https://apis.io/schemas/citation-co/citation-co-job/)
+- [write](https://apis.io/schemas/citation-co/citation-co-write/)
+- [WritingContext](https://apis.io/schemas/citation-co/citation-co-writing-context/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Citation Co Context](https://apis.io/jsonld/citation-co/citation-co-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Citation Co Openapi Overlay](https://apis.io/overlays/citation-co/citation-co-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Citation API Rules](https://apis.io/rules/citation-co/citation-co-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Citation Co Authentication](https://apis.io/security/citation-co/citation-co-authentication/)
+- [Citation Co Domain Security](https://apis.io/security/citation-co/citation-co-domain-security/)
+- [Citation Co Trust Center](https://apis.io/security/citation-co/citation-co-trust-center/)
+- [Citation Co Vulnerability Disclosure](https://apis.io/security/citation-co/citation-co-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Citation Co Scopes](https://apis.io/scopes/citation-co/citation-co-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Citation Co Rate Limits](https://apis.io/rate-limits/citation-co/citation-co-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://citation.co/)
+- [Documentation](https://citation.co/docs)
+- [Getting started](https://citation.co/docs/start-guide)
+- [API reference](https://citation.co/docs/api)
+- [Pricing](https://citation.co/pricing)
+- [Sign up](https://citation.co/signup)
+- [Support](https://citation.co/contact)
+- [Blog](https://citation.co/blog)
+- [Security](https://citation.co/security)
+- [Compliance](https://citation.co/security)
+- [Terms of service](https://citation.co/terms)
+- [Privacy policy](https://citation.co/privacy)
+- [GitHub](https://github.com/citationco)
+
+## API Evangelist rating
+
+**Kin Score 60.4** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 59.9 |
+| Contract governance | 70.9 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 60.5 |
+
+**Agent readiness 62.1** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 45.1** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/citation-co/](https://apis.io/providers/citation-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Citation: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/citation-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
